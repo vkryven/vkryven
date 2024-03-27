@@ -9,10 +9,7 @@ Top Skills
 Manual Testing
 Scrum
 MySQL
-Languages
-German (Pre Intermediate)
-Italian (Basic)
-English (Upper Intermediate)
+
 
 Experience
 Luxoft
